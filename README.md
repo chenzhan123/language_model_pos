@@ -1,7 +1,7 @@
 # language_model_pos
 traditional language models and deep learning models to do POS
 
-description:
+Description:
 
 lstm_pos_model: the LSTM method used to do POS
 
